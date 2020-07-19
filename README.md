@@ -2,7 +2,6 @@
 
 ## Frontend: Quick Overview
 
-***
 This was mostly made to test the backend but decided to include it in the assessment.
 The front end is React. I did not use Redux to make sure the application is simple.
 The all of the styling is Bootstrap. Again, to keep the application simple.
@@ -10,20 +9,18 @@ The front end also uses a token that is stored in the client.
 
 ## Backend: Quick Overview
 
-***
 Coded in Express for simplicity. Wanted to show I understand creating RESTful API's.
 I am still flexible in different languages. For example, I can use Flask, Django, ASP.net, etc.
 
 ## Client
 
-***
+
 I am assuming that this will be some sort of web app using MVC.
 I also assume that the client will store a token in order to authenticate.
 Frontend will make API calls in order to receive data.
 
 ## Server
 
-***
 Coded in Express.
 I am assuming there will be some validation in the frontend.
 Set up as a RESTful API with CRUD Users and Messages.
@@ -31,15 +28,12 @@ I know the requirements do not need a full CRUD but wanted to add for future use
 
 ## Datastore
 
-***
 Database is MongoDB.
 There's a docker-compose file available to use if you want to quickly setup a MongoDB instance.
 I chose MongoDB because I am comfortable with it, it has easy syntax, and searches efficiently.
 Uses JSON to communicate.
 
 ## API
-
-***
 
 ### Users
 

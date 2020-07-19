@@ -13,8 +13,7 @@ Coded in Express for simplicity. Wanted to show I understand creating RESTful AP
 I am still flexible in different languages. For example, I can use Flask, Django, ASP.net, etc.
 
 ## OneNote Link
-[This a link to my notes I took before starting the assessment.](https://onedrive.live.com/view.aspx?resid=6F3C5A85CF37107%2174101&id=documents
-onenote:https://d.docs.live.net/06f3c5a85cf37107/Documents/backend%20assessment/)
+[This a link to my notes I took before starting the assessment.](https://onedrive.live.com/view.aspx?resid=6F3C5A85CF37107%2174101&id=documentsonenote:https://d.docs.live.net06f3c5a85cf37107/Documents/backend%20assessment/)
 
 ## Client
 

@@ -41,6 +41,8 @@ Uses JSON to communicate.
 
     + ROUTE: users/
         - Finds all Users
+        - Response:
+            + List of Users
     + ROUTE: users/add
         - Adds a user and encrypts their password
         - Request Params:

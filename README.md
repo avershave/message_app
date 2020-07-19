@@ -12,8 +12,11 @@ The front end also uses a token that is stored in the client.
 Coded in Express for simplicity. Wanted to show I understand creating RESTful API's.
 I am still flexible in different languages. For example, I can use Flask, Django, ASP.net, etc.
 
-## Client
+## OneNote Link
+[This a link to my notes I took before starting the assessment.](https://onedrive.live.com/view.aspx?resid=6F3C5A85CF37107%2174101&id=documents
+onenote:https://d.docs.live.net/06f3c5a85cf37107/Documents/backend%20assessment/)
 
+## Client
 
 I am assuming that this will be some sort of web app using MVC.
 I also assume that the client will store a token in order to authenticate.

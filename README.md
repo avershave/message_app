@@ -6,6 +6,7 @@
 - The front end is React. I did not use Redux to make sure the application is simple.
 - The all of the styling is Bootstrap. Again, to keep the application simple.
 - The front end also uses a token that is stored in the client.
+- Use command npm install then npm start to run the React app.
 
 ## Backend: Quick Overview
 
